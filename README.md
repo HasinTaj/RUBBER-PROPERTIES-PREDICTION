@@ -17,6 +17,7 @@ To build a binary classification model that predicts whether a customer will **c
 - Gender, SeniorCitizen, Partner, Dependents
 - Tenure, PhoneService, InternetService, etc.
 - `Churn` (Target variable)
+- clone:https://github.com/HasinTaj/RUBBER-PROPERTIES-PREDICTION.git
 
 ---
 
